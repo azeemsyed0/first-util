@@ -1,0 +1,19 @@
+{
+  "name": "@azeemsyed/first-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azeemsyed0/first-util.git"
+  },
+  "author": "azeemsyed0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azeemsyed0/first-util/issues"
+  },
+  "homepage": "https://github.com/azeemsyed0/first-util#readme"
+}
